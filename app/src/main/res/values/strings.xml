@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">MiniActivitat2</string>
+    <string name="helloWorld">Hello World!</string>
+    <string name="bye">Bye Message</string>
+    <string name="numberOf">Number of repetitions</string>
+    <string name="go_to">GO TO BYE SCREEN</string>
+    <string name="back">GO BACK</string>
+    <string name="hint">Introduce the bye message</string>
+    <string name="toast">Complete all fields</string>
+
+</resources>
